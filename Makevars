@@ -1,0 +1,8 @@
+#GALIB headers & LIBS
+GAINC=/home/andrasjoo/work/programming/libs/include
+GALIB=/home/andrasjoo/work/programming/libs/lib
+
+#ARMADILLO headers
+ARMAINC=/home/andrasjoo/work/programming/libs/include/armadillo
+
+
